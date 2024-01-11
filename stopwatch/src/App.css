@@ -1,0 +1,17 @@
+.container{
+  border: 2px solid black;
+  width: 200px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  align-items: center;
+
+}
+.container h2{
+  text-align: center;
+}
+.buttons{
+   display: flex;
+   justify-content:space-around;
+}
